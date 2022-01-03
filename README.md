@@ -5,11 +5,12 @@
 
 👩‍💻 I have a certificate in Software Engineering.
 
-📜 I graduated from Flatiron School April, 2nd.
+📜 I graduated from Flatiron School April 2, 2021
 
-🌱 I am passionate about Web Developement & I enjoy learning new things.
+🌱 I’m currently learning ... Python!
 
 📫 [e-mail me](mailto:hernandeze791@gmail.com?subject=[GitHub]%20Hello)
+
 
 ## 🛠️ Tech Stack:
 <p float="left">

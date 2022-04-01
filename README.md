@@ -7,7 +7,6 @@
 
 📜 I graduated from Flatiron School April 2, 2021
 
-🌱 I’m currently learning ... Python!
 
 📫 [e-mail me](mailto:hernandeze791@gmail.com?subject=[GitHub]%20Hello)
 
